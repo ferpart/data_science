@@ -8,6 +8,7 @@ tc2031_shared_folder
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
+SOLUTIONS
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
